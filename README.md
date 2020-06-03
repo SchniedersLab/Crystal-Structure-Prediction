@@ -1,5 +1,5 @@
 
-## Use Binder to try the Crystal Structure Prediction Workflow Online
+## Use Binder to try a Preliminary Crystal Structure Prediction Workflow Online
 
 ### With Java
 [![Binder][binder-image]](https://mybinder.org/v2/gh/SchniedersLab/Crystal-Structure-Prediction/master?filepath=CSP-Java.ipynb) [![Binder][binder-lab-image]](https://mybinder.org/v2/gh/SchniedersLab/Crystal-Structure-Prediction/master?urlpath=lab/tree/CSP-Java.ipynb)
